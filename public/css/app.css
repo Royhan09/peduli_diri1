@@ -1,0 +1,85 @@
+.container {
+    margin-top: 100px;
+}
+
+.nav-first {
+    padding-left: 0;
+}
+.nav-link {
+    padding-top: 0;
+    padding-bottom: 0;
+    color: black;
+}
+
+.main {
+    width: 100%;
+    padding: 10px;
+    border: solid black 1px;
+}
+
+.base-filter {
+    width: 100%;
+    border: solid black 1px;
+    padding: 10px;
+}
+
+.btn {
+    border: solid black 2px;
+    border-radius: 0;
+    box-shadow: 3px 5px;
+}
+
+.btn-filter {
+    border: solid black 2px;
+    box-shadow: 1px 2px;
+    padding: 0;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color: white;
+}
+
+.filter {
+    width: 150px;
+    border-radius: 0;
+    padding-left: 3px;
+    border: solid black 1px;
+}
+
+.header-main {
+    width: 100%;
+    padding: 10px;
+    border: solid black 1px;
+}
+table {
+    width: 100%;
+    border-top: 1px solid #000;
+    border-bottom: 1px solid #000;
+    border-color: collapse;
+}
+
+td,
+th {
+    border-left: 1px solid #000;
+    border-right: 1px solid #000;
+    text-align: left;
+    padding: 6px;
+}
+
+.formel {
+    padding: 0;
+    border: 1px solid black;
+    width: 305px;
+    margin-left: 90px;
+    border-radius: 0;
+}
+
+.formlogin {
+    border-radius: 0;
+    border: 1px solid black;
+    width: 400px;
+}
+
+.btn-logout {
+    border: 0;
+    background-color: white;
+}
